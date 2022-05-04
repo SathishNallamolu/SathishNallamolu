@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SathishNallamolu
 - 👀 I’m interested in ... Artificial Intelligence/Machine Learning
 - 🌱 I’m currently learning ... Python,Machine Learning    
-- 💞️ I’m looking to collaborate on ... Machine Learning  Projects
+- 💞️ I’m looking to collaborate on ... Machine Learning Projects
 - 📫 How to reach me ... nallamolusathish56@gmail.com
 
 <!---
